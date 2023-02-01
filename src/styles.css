@@ -1,0 +1,16 @@
+.app{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.app h1{
+  color: red;
+}
+.todo-list{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: lightblue;
+  padding: 15px;
+  margin: 10px;
+}
